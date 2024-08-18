@@ -18,6 +18,7 @@
     "@fontsource/staatliches": "^5.0.20",
     "framer-motion": "^11.3.28",
     "next": "14.2.5",
+    "nextjs-progressbar": "^0.0.16",
     "react": "^18",
     "react-dom": "^18"
   },

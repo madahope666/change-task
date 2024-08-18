@@ -2,7 +2,6 @@
 
 import {
     Heading,
-    Link,
     Flex,
     IconButton,
     useColorModeValue,
@@ -15,6 +14,7 @@ import {
     HamburgerIcon,
     CloseIcon,
 } from '@chakra-ui/icons'
+import { Link } from '@chakra-ui/next-js'
 
 const GlobalHeader = () => {
     const { isOpen, onClose, onToggle } = useDisclosure()

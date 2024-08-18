@@ -28,6 +28,15 @@ const extendedTheme = {
                 }
             }
         },
+        Button: {
+            variants: {
+                'outline': {    
+                    width: '2em',
+                    height: '100%',
+                    borderRadius: '0',
+                }
+            }
+        }
     }
 }
 
